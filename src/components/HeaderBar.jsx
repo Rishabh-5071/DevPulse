@@ -28,7 +28,7 @@ export default function HeaderBar({ stats }) {
             <div className="header-brand">
                 <div>
                     <div className="header-logo">◈ DEVPULSE</div>
-                    <div className="header-version">v1.0.0 — TECH INTEL DASHBOARD</div>
+                    <div className="header-version">v1.0.0 — TECH INTEL DASHBOARD | © Rishabh — All Rights Reserved</div>
                 </div>
             </div>
 
